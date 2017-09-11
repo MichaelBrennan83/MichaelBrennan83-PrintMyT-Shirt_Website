@@ -27,11 +27,10 @@ Deatils of the Original Author and Development Lead.
 * **Author-email:** michael.brennan1@ucdconnect.com
 * **Github-username:** [MichaelBrennan83](https://github.com/MichaelBrennan83)
 * **Copyright:** 2017 Michael Brennan
-* **Category:** Development* 
+* **Category:** Development
 
 
 ## Terms of Use
 This Project was developed as part of my college assigmnet, can be used for any person looking to start a small business or to help someone working on a similar project.
 
-## Contributing
 
