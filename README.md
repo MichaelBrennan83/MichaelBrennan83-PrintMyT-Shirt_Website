@@ -21,7 +21,6 @@ SQL Server Management Studio
 After installing all the requirements download the [files](https://github.com/MichaelBrennan83/MichaelBrennan83-PrintMyT-Shirt_Website/tree/master/PrintMyT-Shirt_Website) and open them is ASP.NET and run the system.  
 
 ## Author
-Deatils of the Original Author and Development Lead.
 
 * **Author-name:** Michael Brennan
 * **Author-email:** michael.brennan1@ucdconnect.com
