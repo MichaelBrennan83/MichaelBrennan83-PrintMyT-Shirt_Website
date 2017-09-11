@@ -34,6 +34,3 @@ This Project was developed as part of my college assigmnet, can be used for any 
 ## License
 
 This project is licensed under the MIT License 
-
-
-
