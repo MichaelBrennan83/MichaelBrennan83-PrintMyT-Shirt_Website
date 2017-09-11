@@ -28,8 +28,12 @@ After installing all the requirements download the [files](https://github.com/Mi
 * **Copyright:** 2017 Michael Brennan
 * **Category:** Development
 
-
 ## Terms of Use
 This Project was developed as part of my college assigmnet, can be used for any person looking to start a small business or to help someone working on a similar project.
+
+## License
+
+This project is licensed under the MIT License 
+
 
 
